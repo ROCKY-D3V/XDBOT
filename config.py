@@ -114,11 +114,11 @@ confirmer = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/5fb1d6a6dd6555ff52ad8.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/9e2f6bea367dc52ea06f5.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/eee5e3d03dbfcf6514595.jpg",
+    "https://graph.org/file/cd2a4310611b1afd43a73.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -133,7 +133,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://te.legra.ph/file/df481726bdfafdbc7d85c.jpg",
+    "https://graph.org/file/be87aa46b43924b7940c5.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
